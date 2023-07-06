@@ -1,1 +1,501 @@
-# awesome-llm-projects
+# AI Related OpenSource Projects
+- awesome(https://github.com/sindresorhus/awesome "😎 Awesome lists about all kinds of interesting topics") 260321 
+- awesome-python(https://github.com/vinta/awesome-python "A curated list of awesome Python frameworks, libraries, software and resources") 172698 
+- Auto-GPT(https://github.com/Significant-Gravitas/Auto-GPT "An experimental open-source attempt to make GPT-4 fully autonomous.") 142279 
+- awesome-selfhosted(https://github.com/awesome-selfhosted/awesome-selfhosted "A list of Free Software network services and web applications which can be hosted on your own servers") 138068 
+- awesome-go(https://github.com/avelino/awesome-go "A curated list of awesome Go frameworks, libraries and software") 104087 
+- the-book-of-secret-knowledge(https://github.com/trimstray/the-book-of-secret-knowledge "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.") 101266 
+- awesome-chatgpt-prompts(https://github.com/f/awesome-chatgpt-prompts "This repo includes ChatGPT prompt curation to use ChatGPT better.") 82323 
+- papers-we-love(https://github.com/papers-we-love/papers-we-love "Papers from the computer science community to read and discuss.") 74706 
+- Font-Awesome(https://github.com/FortAwesome/Font-Awesome "The iconic SVG, font, and CSS toolkit") 71658 
+- HelloGitHub(https://github.com/521xueweihan/HelloGitHub ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.") 70730 
+- awesome-vue(https://github.com/vuejs/awesome-vue "🎉 A curated list of awesome things related to Vue.js") 68944 
+- Awesome-Hacking(https://github.com/Hack-with-Github/Awesome-Hacking "A collection of various awesome lists for hackers, pentesters and security researchers") 66542 
+- awesome-mac(https://github.com/jaywcjlove/awesome-mac " Now we have become very big, Different from the original idea. Collect premium software in various categories.") 61684 
+- awesome-machine-learning(https://github.com/josephmisiti/awesome-machine-learning "A curated list of awesome Machine Learning frameworks, libraries and software.") 59279 
+- architect-awesome(https://github.com/xingshaocheng/architect-awesome "后端架构师技术图谱") 58202 
+- awesome-react(https://github.com/enaqx/awesome-react "A collection of awesome things regarding React ecosystem") 56535 
+- awesome-interview-questions(https://github.com/DopplerHQ/awesome-interview-questions ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ") 56116 
+- awesome-public-datasets(https://github.com/awesomedata/awesome-public-datasets "A topic-centric list of HQ open datasets.") 54900 
+- awesome-for-beginners(https://github.com/MunGell/awesome-for-beginners "A list of awesome beginners-friendly projects.") 52644 
+- funNLP(https://github.com/fighting41love/funNLP "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具") 52192 
+- awesome-nodejs(https://github.com/sindresorhus/awesome-nodejs ":zap: Delightful Node.js packages and resources") 51747 
+- leetcode(https://github.com/azl397985856/leetcode "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)") 51577 
+- gpt4all(https://github.com/nomic-ai/gpt4all "gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue") 48106 
+- awesome-courses(https://github.com/prakhar1989/awesome-courses ":books: List of awesome university courses for learning Computer Science!") 47903 
+- awesome-flutter(https://github.com/Solido/awesome-flutter "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.") 47404 
+- awesome-cpp(https://github.com/fffaraz/awesome-cpp "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.") 47247 
+- awesome-android-ui(https://github.com/wasabeef/awesome-android-ui "A curated list of awesome Android UI/UX libraries") 46753 
+- awesome-scalability(https://github.com/binhnguyennus/awesome-scalability "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems") 45739 
+- nerd-fonts(https://github.com/ryanoasis/nerd-fonts "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more") 44810 
+- awesome-ios(https://github.com/vsouza/awesome-ios "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects ") 43226 
+- openai-cookbook(https://github.com/openai/openai-cookbook "Examples and guides for using the OpenAI API") 42041 
+- gpt4free(https://github.com/xtekky/gpt4free "The official gpt4free repository | various collection of powerful language models") 41853 
+- github-cheat-sheet(https://github.com/tiimgreen/github-cheat-sheet "A list of cool features of Git and GitHub.") 41518 
+- awesome-wechat-weapp(https://github.com/justjavac/awesome-wechat-weapp "微信小程序开发资源汇总 :100:") 41469 
+- awesome-chatgpt-prompts-zh(https://github.com/PlexPt/awesome-chatgpt-prompts-zh "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。") 40756 
+- ChatGPT(https://github.com/lencx/ChatGPT "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)") 38664 
+- frontend-dev-bookmarks(https://github.com/dypsilon/frontend-dev-bookmarks "Manually curated collection of resources for frontend web developers.") 38641 
+- gpt_academic(https://github.com/binary-husky/gpt_academic "为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等") 37079 
+- awesome-java(https://github.com/akullpp/awesome-java "A curated list of awesome frameworks, libraries and software for the Java programming language.") 36882 
+- awesome-react-components(https://github.com/brillout/awesome-react-components "Curated List of React Components & Libraries.") 36324 
+- open-source-mac-os-apps(https://github.com/serhii-londar/open-source-mac-os-apps "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps") 35952 
+- awesome-rust(https://github.com/rust-unofficial/awesome-rust "A curated list of Rust code and resources.") 35510 
+- open-source-ios-apps(https://github.com/dkhamsing/open-source-ios-apps ":iphone: Collaborative List of Open-Source iOS Apps") 35416 
+- gpt-engineer(https://github.com/AntonOsika/gpt-engineer "Specify what you want it to build, the AI asks for clarification, and then builds it.") 35146 
+- ChatGPT-Next-Web(https://github.com/Yidadaa/ChatGPT-Next-Web "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。") 34724 
+- Open-Assistant(https://github.com/LAION-AI/Open-Assistant "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.") 34177 
+- awesome-cheatsheets(https://github.com/LeCoupa/awesome-cheatsheets "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.") 33960 
+- Prompt-Engineering-Guide(https://github.com/dair-ai/Prompt-Engineering-Guide "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering") 33291 
+- awesome-react-native(https://github.com/jondot/awesome-react-native "Awesome React Native components, news, tools, and learning material!") 33042 
+- hello-algorithm(https://github.com/geekxh/hello-algorithm "🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站") 32489 
+- privateGPT(https://github.com/imartinez/privateGPT "Interact privately with your documents using the power of GPT, 100% privately, no data leaks") 32190 
+- PaddleOCR(https://github.com/PaddlePaddle/PaddleOCR "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)") 31392 
+- awesome-design-patterns(https://github.com/DovAmir/awesome-design-patterns "A curated list of software and architecture related design patterns.") 31044 
+- awesome-javascript(https://github.com/sorrycc/awesome-javascript "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.") 30929 
+- awesome-awesomeness(https://github.com/bayandin/awesome-awesomeness "A curated list of awesome awesomeness") 30349 
+- awesome-php(https://github.com/ziadoz/awesome-php "A curated list of amazingly awesome PHP libraries, resources and shiny things.") 28829 
+- Awesome-Design-Tools(https://github.com/goabstract/Awesome-Design-Tools "The best design tools and plugins for everything 👉") 28774 
+- awesome-shell(https://github.com/alebcay/awesome-shell "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.") 27753 
+- awesome-macos-command-line(https://github.com/herrbischoff/awesome-macos-command-line "Use your macOS terminal shell to do awesome things.") 27599 
+- ChatGPT(https://github.com/acheong08/ChatGPT "Reverse engineered ChatGPT API") 26550 
+- awesome-python-cn(https://github.com/jobbole/awesome-python-cn "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。") 26530 
+- awesome-remote-job(https://github.com/lukasz-madon/awesome-remote-job "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python") 25852 
+- awesome-docker(https://github.com/veggiemonk/awesome-docker ":whale: A curated list of Docker resources and projects") 25650 
+- css-protips(https://github.com/AllThingsSmitty/css-protips "⚡️ A collection of tips to help take your CSS skills pro 🦾") 25505 
+- chatgpt-web(https://github.com/Chanzhaoyu/chatgpt-web "用 Express 和  Vue3 搭建的 ChatGPT 演示网页") 24961 
+- awesome-deep-learning-papers(https://github.com/terryum/awesome-deep-learning-papers "The most cited deep learning papers") 24563 
+- AgentGPT(https://github.com/reworkd/AgentGPT "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.") 24512 
+- awesome-electron(https://github.com/sindresorhus/awesome-electron "Useful resources for creating apps with Electron") 24429 
+- awesome-compose(https://github.com/docker/awesome-compose "Awesome Docker Compose samples") 24335 
+- FastChat(https://github.com/lm-sys/FastChat "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.") 24288 
+- weekly(https://github.com/ascoders/weekly "前端精读周刊。帮你理解最前沿、实用的技术。") 24269 
+- rufus(https://github.com/pbatard/rufus "The Reliable USB Formatting Utility") 23770 
+- awesome-swift(https://github.com/matteocrippa/awesome-swift "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!") 23451 
+- awesome-sysadmin(https://github.com/kahun/awesome-sysadmin "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.") 23028 
+- Awesome(https://github.com/Awesome-Windows/Awesome ":computer: 🎉 An awesome & curated list of best applications and tools for Windows.") 22925 
+- awesome-piracy(https://github.com/Igglybuff/awesome-piracy "A curated list of awesome warez and piracy links") 22691 
+- awesome-vscode(https://github.com/viatsko/awesome-vscode "🎨 A curated list of delightful VS Code packages and resources.") 22676 
+- nanoGPT(https://github.com/karpathy/nanoGPT "The simplest, fastest repository for training/finetuning medium-sized GPTs.") 22404 
+- go-patterns(https://github.com/tmrts/go-patterns "Curated list of Go design patterns, recipes and idioms") 22401 
+- awesome-actions(https://github.com/sdras/awesome-actions "A curated list of awesome actions to use on GitHub") 21720 
+- awesome-datascience(https://github.com/academic/awesome-datascience ":memo: An awesome Data Science repository to learn and apply for real world problems.") 21485 
+- MiniGPT-4(https://github.com/Vision-CAIR/MiniGPT-4 "MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models") 21280 
+- awesome-deep-learning(https://github.com/ChristosChristofidis/awesome-deep-learning "A curated list of awesome Deep Learning tutorials, projects and communities.") 21141 
+- games(https://github.com/leereilly/games ":video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.") 21110 
+- awesome-falsehood(https://github.com/kdeldycke/awesome-falsehood "😱 Falsehoods Programmers Believe in") 20874 
+- awesome-cto(https://github.com/kuchin/awesome-cto "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups") 20241 
+- SpaceVim(https://github.com/SpaceVim/SpaceVim "A community-driven modular vim/neovim distribution - The ultimate vimrc") 19951 
+- my-mac(https://github.com/nikitavoloboev/my-mac "List of applications and tools that make my macOS experience even more amazing") 19819 
+- Tvlist-awesome-m3u-m3u8(https://github.com/imDazui/Tvlist-awesome-m3u-m3u8 "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵") 19722 
+- awesome-spider(https://github.com/facert/awesome-spider "爬虫集合") 19569 
+- gpt-2(https://github.com/openai/gpt-2 "Code for the paper "Language Models are Unsupervised Multitask Learners"") 19502 
+- Awesome-CV(https://github.com/posquit0/Awesome-CV ":page_facing_up: Awesome CV is LaTeX template for your outstanding job application") 19501 
+- Awesome-Linux-Software(https://github.com/luong-komorebi/Awesome-Linux-Software "🐧 A list of awesome Linux softwares ") 19439 
+- HarmonyOS(https://github.com/Awesome-HarmonyOS/HarmonyOS "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。") 18742 
+- awesome-pentest(https://github.com/enaqx/awesome-pentest "A collection of awesome penetration testing resources, tools and other shiny things") 18689 
+- chatgpt-retrieval-plugin(https://github.com/openai/chatgpt-retrieval-plugin "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.") 18597 
+- awesome-sysadmin(https://github.com/awesome-foss/awesome-sysadmin "A curated list of amazingly awesome open-source sysadmin resources.") 18576 
+- awesome-github-profile-readme(https://github.com/abhisheknaiidu/awesome-github-profile-readme "😎 A curated list of awesome GitHub Profile READMEs 📝") 18505 
+- awesome-computer-vision(https://github.com/jbhuang0604/awesome-computer-vision "A curated list of awesome computer vision resources") 18417 
+- llama_index(https://github.com/jerryjliu/llama_index "LlamaIndex (GPT Index) is a data framework for your LLM applications") 18187 
+- awesome-dotnet-core(https://github.com/thangchung/awesome-dotnet-core ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software") 18106 
+- MagicMirror(https://github.com/MichMich/MagicMirror "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.") 17861 
+- vim-fugitive(https://github.com/tpope/vim-fugitive "fugitive.vim: A Git wrapper so awesome, it should be illegal") 17770 
+- gin-vue-admin(https://github.com/flipped-aurora/gin-vue-admin "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。") 17542 
+- awesome-blockchain-cn(https://github.com/chaozh/awesome-blockchain-cn "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料") 17509 
+- openai-translator(https://github.com/openai-translator/openai-translator "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.") 17127 
+- pandora(https://github.com/pengzhile/pandora "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.") 17097 
+- awesome-tensorflow(https://github.com/jtoy/awesome-tensorflow "TensorFlow - A curated list of dedicated resources http://tensorflow.org") 16949 
+- awesome-dotnet(https://github.com/quozd/awesome-dotnet "A collection of awesome .NET libraries, tools, frameworks and software") 16856 
+- Interview_Question_for_Beginner(https://github.com/JaeYeopHan/Interview_Question_for_Beginner ":boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:") 16709 
+- text-generation-webui(https://github.com/oobabooga/text-generation-webui "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.") 16693 
+- LeetcodeTop(https://github.com/afatcoder/LeetcodeTop "汇总各大互联网公司容易考察的高频leetcode题🔥         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop") 16664 
+- rasa(https://github.com/RasaHQ/rasa "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants") 16625 
+- Pake(https://github.com/tw93/Pake "🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App") 16516 
+- spellbook-of-modern-webdev(https://github.com/dexteryy/spellbook-of-modern-webdev "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development") 16179 
+- CopyTranslator(https://github.com/CopyTranslator/CopyTranslator "Foreign language reading and translation assistant based on copy and translate.") 15871 
+- awesome-cs-books(https://github.com/imarvinle/awesome-cs-books "🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等") 15705 
+- awesome-design-systems(https://github.com/alexpate/awesome-design-systems "💅🏻 ⚒ A collection of awesome design systems") 15675 
+- minGPT(https://github.com/karpathy/minGPT "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training") 15671 
+- vim-galore(https://github.com/mhinz/vim-galore ":mortar_board: All things Vim!") 15578 
+- chatbot-ui(https://github.com/mckaywrigley/chatbot-ui "An open source ChatGPT UI.") 15573 
+- A-to-Z-Resources-for-Students(https://github.com/dipakkr/A-to-Z-Resources-for-Students "✅  Curated list of resources for college students ") 15551 
+- gpt-3(https://github.com/openai/gpt-3 "GPT-3: Language Models are Few-Shot Learners") 15216 
+- awesome-python-login-model(https://github.com/Kr1s77/awesome-python-login-model "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟") 15134 
+- awesome-java-cn(https://github.com/jobbole/awesome-java-cn "Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。") 14985 
+- awesome-nlp(https://github.com/keon/awesome-nlp ":book: A curated list of resources dedicated to Natural Language Processing (NLP)") 14881 
+- awesome-readme(https://github.com/matiassingers/awesome-readme "A curated list of awesome READMEs") 14857 
+- Mr.-Ranedeer-AI-Tutor(https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.") 14778 
+- awesome-design(https://github.com/gztchan/awesome-design "🌟 Curated design resources from all over the world.") 14668 
+- awesome-python-applications(https://github.com/mahmoud/awesome-python-applications "💿 Free software that works great, and also happens to be open-source Python. ") 14614 
+- chatgpt-api(https://github.com/transitive-bullshit/chatgpt-api "Node.js client for the official ChatGPT API. 🔥") 14599 
+- awesome-algorithms(https://github.com/tayllan/awesome-algorithms "A curated list of awesome places to learn and/or practice algorithms.") 14513 
+- awesome-macOS(https://github.com/iCHAIT/awesome-macOS "  A curated list of awesome applications, softwares, tools and shiny things for macOS.") 14427 
+- GoBooks(https://github.com/dariubs/GoBooks "List of Golang books") 14369 
+- Qix(https://github.com/ty4z2008/Qix "Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang") 14350 
+- Awesome-pytorch-list(https://github.com/bharathgs/Awesome-pytorch-list "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.") 14172 
+- awesome-graphql(https://github.com/chentsulin/awesome-graphql "Awesome list of GraphQL") 14100 
+- chatgpt-on-wechat(https://github.com/zhayujie/chatgpt-on-wechat "Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。") 14022 
+- awesome-kubernetes(https://github.com/ramitsurana/awesome-kubernetes "A curated list for awesome kubernetes sources :ship::tada:") 14002 
+- best-of-ml-python(https://github.com/ml-tooling/best-of-ml-python "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.") 13962 
+- Hello-Python(https://github.com/mouredev/Hello-Python "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...") 13958 
+- awesome-production-machine-learning(https://github.com/EthicalML/awesome-production-machine-learning "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning") 13900 
+- powerline(https://github.com/powerline/powerline "Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.") 13842 
+- awesome-programming-books(https://github.com/jobbole/awesome-programming-books "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等") 13678 
+- Machine-Learning-Tutorials(https://github.com/ujjwalkarn/Machine-Learning-Tutorials "machine learning and deep learning tutorials, articles and other resources ") 13640 
+- Awesome-Hacking-Resources(https://github.com/vitalysim/Awesome-Hacking-Resources "A collection of hacking / penetration testing resources to make you better!") 13591 
+- awesome-oss-alternatives(https://github.com/RunaCapital/awesome-oss-alternatives "Awesome list of open-source startup alternatives to well-known SaaS products 🚀") 13583 
+- ChatPaper(https://github.com/kaixindelele/ChatPaper "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复") 13203 
+- chatgpt-google-extension(https://github.com/wong2/chatgpt-google-extension "A browser extension that enhance search engines with ChatGPT") 13202 
+- chatbox(https://github.com/Bin-Huang/chatbox "Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online") 13110 
+- awesome-zsh-plugins(https://github.com/unixorn/awesome-zsh-plugins "A collection of ZSH frameworks, plugins, themes and tutorials.") 13069 
+- awesome-osint(https://github.com/jivoi/awesome-osint ":scream: A curated list of amazingly awesome OSINT") 13066 
+- leon(https://github.com/leon-ai/leon "🧠 Leon is your open-source personal assistant.") 13049 
+- js-must-watch(https://github.com/bolshchikov/js-must-watch "Must-watch videos about javascript") 12955 
+- awesome-ruby(https://github.com/markets/awesome-ruby ":gem: A collection of awesome Ruby libraries, tools, frameworks and software") 12920 
+- awesome-quant(https://github.com/wilsonfreitas/awesome-quant "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)") 12858 
+- 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code(https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code "500 AI Machine learning Deep learning Computer vision NLP Projects with code") 12781 
+- vue-awesome-swiper(https://github.com/surmon-china/vue-awesome-swiper "🏆 Swiper component for @vuejs") 12693 
+- PEASS-ng(https://github.com/carlospolop/PEASS-ng "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)") 12670 
+- SwifterSwift(https://github.com/SwifterSwift/SwifterSwift "A handy collection of more than 500 native Swift extensions to boost your productivity.") 12590 
+- carrot(https://github.com/xx025/carrot "Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点") 12447 
+- htaccess(https://github.com/phanan/htaccess "✂A collection of useful .htaccess snippets.") 12433 
+- wechat-chatgpt(https://github.com/fuergaosi233/wechat-chatgpt "Use ChatGPT On Wechat via wechaty") 12385 
+- awesome-microservices(https://github.com/mfornos/awesome-microservices "A curated list of Microservice Architecture related principles and technologies.") 12273 
+- awesome-redux(https://github.com/xgrommx/awesome-redux "Awesome list of Redux examples and middlewares") 12136 
+- awesome-bigdata(https://github.com/newTendermint/awesome-bigdata "A curated list of awesome big data frameworks, ressources and other awesomeness.") 12119 
+- gpt4-pdf-chatbot-langchain(https://github.com/mayooear/gpt4-pdf-chatbot-langchain "GPT4 & LangChain Chatbot for large PDF docs") 12052 
+- dashy(https://github.com/Lissy93/dashy "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!") 12027 
+- awesome-elixir(https://github.com/h4cc/awesome-elixir "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:") 11947 
+- PaddleHub(https://github.com/PaddlePaddle/PaddleHub "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)") 11903 
+- Chinese-LLaMA-Alpaca(https://github.com/ymcui/Chinese-LLaMA-Alpaca "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)") 11891 
+- awesome-lowcode(https://github.com/taowen/awesome-lowcode "国内低代码平台从业者交流") 11871 
+- awesome-github-vue(https://github.com/opendigg/awesome-github-vue "Vue相关开源项目库汇总") 11865 
+- awesome-laravel(https://github.com/chiraggude/awesome-laravel "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem") 11841 
+- magictools(https://github.com/ellisonleao/magictools ":video_game: :pencil: A list of Game Development resources to make magic happen.") 11761 
+- awesome-cli-apps(https://github.com/agarrharr/awesome-cli-apps "🖥 📊 🕹 🛠 A curated list of command line apps") 11742 
+- personal-security-checklist(https://github.com/Lissy93/personal-security-checklist "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023") 11726 
+- awesome-stock-resources(https://github.com/neutraltone/awesome-stock-resources ":city_sunrise: A collection of links for free stock photography, video and Illustration websites") 11636 
+- nivo(https://github.com/plouc/nivo "nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries") 11627 
+- awesome-flipperzero(https://github.com/djsime1/awesome-flipperzero "🐬 A collection of awesome resources for the Flipper Zero device.") 11607 
+- awesome-aws(https://github.com/donnemartin/awesome-aws "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.") 11577 
+- awesome-podcasts(https://github.com/rShetty/awesome-podcasts "Collection of awesome podcasts") 11545 
+- awesome-raspberry-pi(https://github.com/thibmaek/awesome-raspberry-pi "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources") 11496 
+- ChuanhuChatGPT(https://github.com/GaiZhenbiao/ChuanhuChatGPT "GUI for ChatGPT API and many LLMs") 11446 
+- awesome-flask(https://github.com/humiaozuzu/awesome-flask "A curated list of awesome Flask resources and plugins") 11443 
+- awesome-competitive-programming(https://github.com/lnishan/awesome-competitive-programming ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources") 11326 
+- awesome-tailwindcss(https://github.com/aniftyco/awesome-tailwindcss "😎 Awesome things related to Tailwind CSS") 11289 
+- awesome-creative-coding(https://github.com/terkelg/awesome-creative-coding "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.") 11178 
+- DeepLearningExamples(https://github.com/NVIDIA/DeepLearningExamples "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.") 11165 
+- guidance(https://github.com/microsoft/guidance "A guidance language for controlling large language models.") 11138 
+- awesome-ios-ui(https://github.com/cjwirth/awesome-ios-ui "A curated list of awesome iOS UI/UX libraries") 11058 
+- MOSS(https://github.com/OpenLMLab/MOSS "An open-source tool-augmented conversational language model from Fudan University") 11038 
+- Awesome-GitHub-Repo(https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo "收集整理 GitHub 上高质量、有趣的开源项目。") 10962 
+- siyuan(https://github.com/siyuan-note/siyuan "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.") 10950 
+- MagicalRecord(https://github.com/magicalpanda/MagicalRecord "Super Awesome Easy Fetching for Core Data!") 10833 
+- Best-README-Template(https://github.com/othneildrew/Best-README-Template "An awesome README template to jumpstart your projects! ") 10786 
+- vpncn.github.io(https://github.com/vpncn/vpncn.github.io "2023中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。") 10756 
+- _s(https://github.com/Automattic/_s "Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.") 10753 
+- awesome-neovim(https://github.com/rockerBOO/awesome-neovim "Collections of awesome neovim plugins.") 10740 
+- awesome-vite(https://github.com/vitejs/awesome-vite "⚡️ A curated list of awesome things related to Vite.js") 10621 
+- botpress(https://github.com/botpress/botpress "The open-source hub to build & deploy GPT/LLM Agents ⚡️") 10517 
+- KeepChatGPT(https://github.com/xcanwin/KeepChatGPT "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。") 10499 
+- awesome-kotlin(https://github.com/KotlinBy/awesome-kotlin "A curated list of awesome Kotlin related stuff Inspired by awesome-java. ") 10491 
+- golang-open-source-projects(https://github.com/hackstoic/golang-open-source-projects "为互联网IT人打造的中文版awesome-go") 10479 
+- awesome-modern-cpp(https://github.com/rigtorp/awesome-modern-cpp "A collection of resources on modern C++") 10424 
+- NVActivityIndicatorView(https://github.com/ninjaprox/NVActivityIndicatorView "A collection of awesome loading animations") 10399 
+- awesome-hacking(https://github.com/carpedm20/awesome-hacking "A curated list of awesome Hacking tutorials, tools and resources") 10381 
+- dolly(https://github.com/databrickslabs/dolly "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform") 10357 
+- awesome-mlops(https://github.com/visenger/awesome-mlops "A curated list of references for MLOps ") 10345 
+- awesome-hyper(https://github.com/bnb/awesome-hyper "🖥 Delightful Hyper plugins, themes, and resources") 10328 
+- Mind-Expanding-Books(https://github.com/hackerkid/Mind-Expanding-Books " :books: Books everyone should read!") 10309 
+- awesome-deep-vision(https://github.com/kjw0612/awesome-deep-vision "A curated list of deep learning resources for computer vision ") 10290 
+- awesome-adb(https://github.com/mzlogin/awesome-adb "ADB Usage Complete / ADB 用法大全") 10247 
+- awesome-cheatsheets(https://github.com/skywind3000/awesome-cheatsheets "超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:") 10224 
+- awesome-sre(https://github.com/dastergon/awesome-sre "A curated list of Site Reliability and Production Engineering resources.") 10158 
+- Awesome-Profile-README-templates(https://github.com/kautukkundan/Awesome-Profile-README-templates "A collection of awesome readme templates to display on your profile") 10130 
+- awesome-android(https://github.com/JStumpp/awesome-android "A curated list of awesome Android packages and resources.") 10051 
+- awesome-ddd(https://github.com/heynickc/awesome-ddd "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources") 9997 
+- awesome-semantic-segmentation(https://github.com/mrgloom/awesome-semantic-segmentation ":metal: awesome-semantic-segmentation") 9960 
+- awesome-security(https://github.com/sbilly/awesome-security "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.") 9952 
+- awesome-malware-analysis(https://github.com/rshipp/awesome-malware-analysis "Defund the Police.") 9936 
+- awesome-web-security(https://github.com/qazbnm456/awesome-web-security "🐶 A curated list of Web Security materials and resources.") 9818 
+- Flowise(https://github.com/FlowiseAI/Flowise "Drag & drop UI to build your customized LLM flow") 9802 
+- Awesome_APIs(https://github.com/TonnyL/Awesome_APIs ":octocat: A collection of APIs") 9719 
+- movies-for-hackers(https://github.com/k4m4/movies-for-hackers "🎬 A curated list of movies every hacker & cyberpunk must watch.") 9714 
+- langflow(https://github.com/logspace-ai/langflow "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.") 9682 
+- quivr(https://github.com/StanGirard/quivr "🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 ") 9580 
+- PaddleNLP(https://github.com/PaddlePaddle/PaddleNLP "👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis and 🖼 Diffusion AIGC system etc.") 9559 
+- GitHub-Dark(https://github.com/StylishThemes/GitHub-Dark ":octocat: Dark GitHub style") 9557 
+- SmsForwarder(https://github.com/pppscn/SmsForwarder "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正") 9444 
+- awesome-tunneling(https://github.com/anderspitman/awesome-tunneling "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.") 9347 
+- SuperAGI(https://github.com/TransformerOptimus/SuperAGI "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.") 9323 
+- haystack(https://github.com/deepset-ai/haystack ":mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.") 9298 
+- be-a-professional-programmer(https://github.com/stanzhai/be-a-professional-programmer "成为专业程序员路上用到的各种优秀资料、神器及框架") 9277 
+- awesome-distributed-systems(https://github.com/theanalyst/awesome-distributed-systems "A curated list to learn about distributed systems") 9276 
+- localGPT(https://github.com/PromtEngineer/localGPT "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ") 9258 
+- awesome-architecture(https://github.com/toutiaoio/awesome-architecture "架构师技术图谱，助你早日成为架构师") 9244 
+- awesome-react-hooks(https://github.com/rehooks/awesome-react-hooks "Awesome React Hooks") 9222 
+- awesome-privacy(https://github.com/pluja/awesome-privacy "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.") 9203 
+- lists(https://github.com/jnv/lists "The definitive list of lists (of lists) curated on GitHub and elsewhere") 9047 
+- awesome-nextjs(https://github.com/unicodeveloper/awesome-nextjs ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ") 9005 
+- ali-dbhub(https://github.com/alibaba/ali-dbhub "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)") 8993 
+- awesomo(https://github.com/lk-geimfari/awesomo "Cool open source projects written in various languages.") 8969 
+- awesome-angular(https://github.com/PatrickJS/awesome-angular ":page_facing_up: A curated list of awesome Angular resources") 8926 
+- awesome-guidelines(https://github.com/Kristories/awesome-guidelines "A curated list of high quality coding style conventions and standards.") 8903 
+- AudioGPT(https://github.com/AIGC-Audio/AudioGPT "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head") 8840 
+- awesome-postgres(https://github.com/dhamaniasad/awesome-postgres "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql") 8822 
+- awesome-scala(https://github.com/lauris/awesome-scala "A community driven list of useful Scala libraries, frameworks and software.") 8777 
+- RWKV-LM(https://github.com/BlinkDL/RWKV-LM "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.") 8764 
+- DeFi-Developer-Road-Map(https://github.com/OffcierCia/DeFi-Developer-Road-Map "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ") 8739 
+- awesome-ai-painting(https://github.com/hua1995116/awesome-ai-painting "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform") 8668 
+- Android_Data(https://github.com/Freelander/Android_Data "Some Android learning materials, hoping to help you learn Android development.") 8632 
+- awesome-java-leetcode(https://github.com/Blankj/awesome-java-leetcode ":crown: LeetCode of algorithms with java solution(updating).") 8565 
+- awesome-indie(https://github.com/mezod/awesome-indie "Resources for independent developers to make money") 8524 
+- BingGPT(https://github.com/dice2o/BingGPT "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)") 8484 
+- MaaAssistantArknights(https://github.com/MaaAssistantArknights/MaaAssistantArknights "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.") 8447 
+- hamulete(https://github.com/hoochanlon/hamulete "🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、系统工程类学术论文等知识库。") 8412 
+- awesome-github-wechat-weapp(https://github.com/opendigg/awesome-github-wechat-weapp "微信小程序开源项目库汇总") 8382 
+- chatGPTBox(https://github.com/josStorer/chatGPTBox "Integrating ChatGPT into your browser deeply, everything you need is here") 8336 
+- FlexGen(https://github.com/FMInference/FlexGen "Running large language models on a single GPU for throughput-oriented scenarios.") 8285 
+- awesome-rl(https://github.com/aikorea/awesome-rl "Reinforcement learning resources curated") 8244 
+- ChatRWKV(https://github.com/BlinkDL/ChatRWKV "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.") 8224 
+- Android-Debug-Database(https://github.com/amitshekhariitbhu/Android-Debug-Database "A library for debugging android databases and shared preferences - Make Debugging Great Again") 8206 
+- awesome-nestjs(https://github.com/nestjs/awesome-nestjs "A curated list of awesome things related to NestJS 😎") 8186 
+- awesome-ctf(https://github.com/apsdehal/awesome-ctf "A curated list of CTF frameworks, libraries, resources and softwares") 8151 
+- tabby(https://github.com/TabbyML/tabby "Self-hosted AI coding assistant") 8126 
+- awesome-java(https://github.com/CodingDocs/awesome-java "Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).") 8100 
+- FlutterDouBan(https://github.com/kaina404/FlutterDouBan "🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）") 8055 
+- software-architecture-books(https://github.com/mhadidg/software-architecture-books "A comprehensive list of books on Software Architecture.") 7998 
+- awesome-wpo(https://github.com/davidsonfellipe/awesome-wpo ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!") 7979 
+- roomGPT(https://github.com/Nutlope/roomGPT "Upload a photo of your room to generate your dream room with AI.") 7978 
+- leedl-tutorial(https://github.com/datawhalechina/leedl-tutorial "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases") 7938 
+- chatgpt-mirai-qq-bot(https://github.com/lss233/chatgpt-mirai-qq-bot "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台") 7922 
+- awesome-artificial-intelligence(https://github.com/owainlewis/awesome-artificial-intelligence "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.") 7918 
+- gpt-neo(https://github.com/EleutherAI/gpt-neo "An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.") 7912 
+- awesome-dotfiles(https://github.com/webpro/awesome-dotfiles "A curated list of dotfiles resources.") 7899 
+- awesome-wasm(https://github.com/mbasso/awesome-wasm "😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.") 7884 
+- awesome-cpp-cn(https://github.com/jobbole/awesome-cpp-cn "C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。") 7881 
+- awesome-compilers(https://github.com/aalhour/awesome-compilers ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes") 7835 
+- FlatUIKit(https://github.com/Grouper/FlatUIKit "A collection of awesome flat UI components for iOS.") 7828 
+- awesome-blazor(https://github.com/AdrienTorris/awesome-blazor "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.") 7815 
+- awesome-emacs(https://github.com/emacs-tw/awesome-emacs "A community driven list of useful Emacs packages, libraries and other items.") 7815 
+- Badges4-README.md-Profile(https://github.com/alexandresanlim/Badges4-README.md-Profile ":octocat: Improve your README.md profile with these amazing badges.") 7793 
+- reverse-engineering(https://github.com/wtsxDev/reverse-engineering "List of awesome reverse engineering resources") 7748 
+- Awesome-ARKit(https://github.com/olucurious/Awesome-ARKit "A curated list of awesome ARKit projects and resources. Feel free to contribute!") 7662 
+- awesome-fenix(https://github.com/fenixsoft/awesome-fenix "讨论如何构建一套可靠的大型分布式系统") 7645 
+- awesome-chatgpt(https://github.com/humanloop/awesome-chatgpt "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3") 7631 
+- ChatALL(https://github.com/sunner/ChatALL " Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers") 7619 
+- Awesome-Diffusion-Models(https://github.com/heejkoo/Awesome-Diffusion-Models " A collection of resources and papers on Diffusion Models") 7599 
+- EdgeGPT(https://github.com/acheong08/EdgeGPT "Reverse engineered API of Microsoft's Bing Chat AI") 7512 
+- awesome-javascript-cn(https://github.com/jobbole/awesome-javascript-cn "JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。") 7509 
+- awesome-c(https://github.com/oz123/awesome-c "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.") 7473 
+- awesome-chatgpt-zh(https://github.com/yzfly/awesome-chatgpt-zh "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀") 7461 
+- awesome-developer-streams(https://github.com/bnb/awesome-developer-streams "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming") 7380 
+- Awesome-Chinese-NLP(https://github.com/crownpku/Awesome-Chinese-NLP "A curated list of resources for Chinese NLP 中文自然语言处理相关资料") 7330 
+- chatgpt-demo(https://github.com/anse-app/chatgpt-demo "Minimal web UI for ChatGPT. ") 7298 
+- PaddleSeg(https://github.com/PaddlePaddle/PaddleSeg "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.") 7295 
+- awesome-math(https://github.com/rossant/awesome-math "A curated list of awesome mathematics resources") 7267 
+- anomaly-detection-resources(https://github.com/yzhao062/anomaly-detection-resources "Anomaly detection related books, papers, videos, and toolboxes") 7228 
+- tokenizers(https://github.com/huggingface/tokenizers "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production") 7198 
+- open-llms(https://github.com/eugeneyan/open-llms "📋 A list of open LLMs available for commercial use.") 7168 
+- awesome-django(https://github.com/wsvincent/awesome-django "A curated list of awesome things related to Django") 7163 
+- awesome-serverless(https://github.com/anaibol/awesome-serverless ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.") 7163 
+- 52-technologies-in-2016(https://github.com/shekhargulati/52-technologies-in-2016 "Let's learn a new technology every week. A new technology blog every Sunday in 2016.") 7153 
+- programming-talks(https://github.com/hellerve/programming-talks "Awesome & interesting talks about programming") 7113 
+- awesome-object-detection(https://github.com/amusi/awesome-object-detection "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html") 7100 
+- xonsh(https://github.com/xonsh/xonsh ":shell: Python-powered, cross-platform, Unix-gazing shell.") 7096 
+- PaLM-rlhf-pytorch(https://github.com/lucidrains/PaLM-rlhf-pytorch "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM") 7092 
+- awesome-free-chatgpt(https://github.com/LiLittleCat/awesome-free-chatgpt "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. ") 7067 
+- awesome-honeypots(https://github.com/paralax/awesome-honeypots "an awesome list of honeypot resources") 7064 
+- awesome-leading-and-managing(https://github.com/LappleApple/awesome-leading-and-managing "Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.") 7038 
+- android-security-awesome(https://github.com/ashishb/android-security-awesome "A collection of android security related resources") 7023 
+- awesome-project-ideas(https://github.com/NirantK/awesome-project-ideas "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas") 7018 
+- GPT2-Chinese(https://github.com/Morizeyao/GPT2-Chinese "Chinese version of GPT2 training code, using BERT tokenizer.") 7018 
+- awesome-system-design(https://github.com/madd86/awesome-system-design "A curated list of awesome System Design (A.K.A. Distributed Systems) resources. ") 6968 
+- ChatGLM2-6B(https://github.com/THUDM/ChatGLM2-6B "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型") 6791 
+- go-proxy-bingai(https://github.com/adams549659584/go-proxy-bingai "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。") 6742 
+- awesome-cheatsheet(https://github.com/detailyang/awesome-cheatsheet ":beers: awesome cheatsheet") 6718 
+- LMFlow(https://github.com/OptimalScale/LMFlow "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.") 6718 
+- awesome-grpc(https://github.com/grpc-ecosystem/awesome-grpc "A curated list of useful resources for gRPC") 6572 
+- awesome-cold-showers(https://github.com/hwayne/awesome-cold-showers "For when people get too hyped up about things") 6569 
+- casdoor(https://github.com/casdoor/casdoor "An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT") 6552 
+- FinGPT(https://github.com/AI4Finance-Foundation/FinGPT "Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.") 6530 
+- awesome-database-learning(https://github.com/pingcap/awesome-database-learning "A list of learning materials to understand databases internals") 6527 
+- AdversarialNetsPapers(https://github.com/zhangqianhui/AdversarialNetsPapers "Awesome paper list with code about generative adversarial nets ") 6481 
+- web-llm(https://github.com/mlc-ai/web-llm "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.") 6469 
+- deeplake(https://github.com/activeloopai/deeplake "Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai") 6343 
+- prompt-engineering(https://github.com/brexhq/prompt-engineering "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.") 6340 
+- TensorFlow-2.x-Tutorials(https://github.com/dragen1860/TensorFlow-2.x-Tutorials "TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。") 6329 
+- awesome-incident-response(https://github.com/meirwah/awesome-incident-response "A curated list of tools for incident response") 6322 
+- awesome-css-frameworks(https://github.com/troxler/awesome-css-frameworks "List of awesome CSS frameworks in 2023") 6285 
+- awesome-threat-intelligence(https://github.com/hslatman/awesome-threat-intelligence "A curated list of Awesome Threat Intelligence resources") 6245 
+- awesome-bash(https://github.com/awesome-lists/awesome-bash "A curated list of delightful Bash scripts and resources.") 6220 
+- clean-code-dotnet(https://github.com/thangchung/clean-code-dotnet ":bathtub:  Clean Code concepts and tools adapted for .NET ") 6195 
+- awesome-go-cn(https://github.com/jobbole/awesome-go-cn "Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。") 6190 
+- yao(https://github.com/YaoApp/yao ":rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.") 6186 
+- OpenNMT-py(https://github.com/OpenNMT/OpenNMT-py "Open Source Neural Machine Translation and (Large) Language Models in PyTorch") 6148 
+- humhub(https://github.com/humhub/humhub "HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.") 6106 
+- gitfolio(https://github.com/imfunniee/gitfolio ":octocat: personal website + blog  for every github user") 6078 
+- BELLE(https://github.com/LianjiaTech/BELLE "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）") 6059 
+- awesome-ml-for-cybersecurity(https://github.com/jivoi/awesome-ml-for-cybersecurity " :octocat: Machine Learning for Cyber Security") 6017 
+- web-development-resources(https://github.com/markodenic/web-development-resources "Awesome Web Development Resources.") 6003 
+- awesome-c-cn(https://github.com/jobbole/awesome-c-cn "C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。") 6001 
+- awesome-solidity(https://github.com/bkrem/awesome-solidity "⟠ A curated list of awesome Solidity resources, libraries, tools and more") 5999 
+- codeface(https://github.com/chrissimpkins/codeface "Typefaces for source code beautification") 5985 
+- awesome-tmux(https://github.com/rothgar/awesome-tmux "A list of awesome resources for tmux") 5975 
+- awesome-rnn(https://github.com/kjw0612/awesome-rnn "Recurrent Neural Network - A curated list of resources dedicated to RNN") 5965 
+- DocsGPT(https://github.com/arc53/DocsGPT "GPT-powered chat for documentation, chat with your documents") 5953 
+- awesome-android(https://github.com/snowdream/awesome-android "android libs from github or other websites") 5930 
+- Awesome-MaterialDesign(https://github.com/lightSky/Awesome-MaterialDesign "Collection of material design libs and res.") 5925 
+- awesome-fastapi(https://github.com/mjhea0/awesome-fastapi "A curated list of awesome things related to FastAPI") 5920 
+- gpt-ai-assistant(https://github.com/memochou1993/gpt-ai-assistant "OpenAI + LINE + Vercel = GPT AI Assistant") 5912 
+- WeasyPrint(https://github.com/Kozea/WeasyPrint "The awesome document factory") 5909 
+- awesome-machine-learning-on-source-code(https://github.com/src-d/awesome-machine-learning-on-source-code "Cool links & research papers related to Machine Learning applied to source code (MLonCode)") 5906 
+- awesome-unity(https://github.com/RyanNielson/awesome-unity "A curated list of awesome Unity assets, resources, and more.") 5885 
+- GameNetworkingResources(https://github.com/ThusSpokeNomad/GameNetworkingResources "A Curated List of Game Network Programming Resources") 5872 
+- awesome-web-scraping(https://github.com/lorien/awesome-web-scraping "List of libraries, tools and APIs for web scraping and data processing.") 5862 
+- Awesome-CoreML-Models(https://github.com/likedan/Awesome-CoreML-Models "Largest list of models for Core ML (for iOS 11+)") 5848 
+- awesome-java-books(https://github.com/sorenduan/awesome-java-books "Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。") 5842 
+- awesome-talks(https://github.com/JanVanRyswyck/awesome-talks "Awesome online talks and screencasts") 5831 
+- awesome-fp-js(https://github.com/stoeffel/awesome-fp-js ":sunglasses: A curated list of awesome functional programming stuff in js") 5806 
+- Awesome-Red-Teaming(https://github.com/yeyintminthuhtut/Awesome-Red-Teaming "List of Awesome Red Teaming Resources") 5801 
+- awesome-test-automation(https://github.com/atinfo/awesome-test-automation "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech") 5766 
+- gpt4free-ts(https://github.com/xiangsx/gpt4free-ts "Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free") 5764 
+- go-openai(https://github.com/sashabaranov/go-openai "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go") 5740 
+- gpt-neox(https://github.com/EleutherAI/gpt-neox "An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.") 5734 
+- laravel-tips(https://github.com/LaravelDaily/laravel-tips "Awesome tips for Laravel") 5734 
+- awesome-resume(https://github.com/resumejob/awesome-resume "Resume，Resume Templates，程序员简历例句，简历模版，") 5732 
+- awesome-english-ebooks(https://github.com/hehonghui/awesome-english-ebooks "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新") 5696 
+- maximum-awesome(https://github.com/square/maximum-awesome "Config files for vim and tmux.") 5682 
+- awesome(https://github.com/awesomeWM/awesome "awesome window manager") 5659 
+- awesome-appsec(https://github.com/paragonie/awesome-appsec "A curated list of resources for learning about application security") 5652 
+- chatgpt-advanced(https://github.com/interstellard/chatgpt-advanced "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.") 5642 
+- Validation(https://github.com/Respect/Validation "The most awesome validation engine ever created for PHP") 5640 
+- awesome-crawler(https://github.com/BruceDone/awesome-crawler "A collection of awesome web crawler,spider in different languages") 5619 
+- awesome-self-supervised-learning(https://github.com/jason718/awesome-self-supervised-learning "A curated list of awesome self-supervised methods") 5614 
+- chatgpt-mac(https://github.com/vincelwt/chatgpt-mac "ChatGPT for Mac, living in your menubar.") 5599 
+- Fast-Android-Networking(https://github.com/amitshekhariitbhu/Fast-Android-Networking "🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀") 5572 
+- Awesome-Swift-Education(https://github.com/hsavit1/Awesome-Swift-Education ":fire: Learn some Swift") 5565 
+- useful-java-links(https://github.com/Vedenin/useful-java-links "A list of useful Java frameworks, libraries, software and hello worlds examples") 5548 
+- awesome-chrome-devtools(https://github.com/ChromeDevTools/awesome-chrome-devtools "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem") 5515 
+- awesome-R(https://github.com/qinwf/awesome-R "A curated list of awesome R packages, frameworks and software.") 5507 
+- awesome-pipeline(https://github.com/pditommaso/awesome-pipeline "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin") 5491 
+- awesome-chaos-engineering(https://github.com/dastergon/awesome-chaos-engineering "A curated list of Chaos Engineering resources.") 5485 
+- BotsApp(https://github.com/Prince-Mendiratta/BotsApp "Your personal assistant, on WhatsApp! The most user friendly userbot for the platform!") 5479 
+- jedi(https://github.com/davidhalter/jedi "Awesome autocompletion, static analysis and refactoring library for python") 5448 
+- awesome-swift(https://github.com/Wolg/awesome-swift "A curated list of awesome Swift frameworks, libraries and software.") 5433 
+- shell_gpt(https://github.com/TheR1D/shell_gpt "A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.") 5433 
+- awesome-hacker-search-engines(https://github.com/edoardottt/awesome-hacker-search-engines "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more") 5430 
+- awesome-android-libraries(https://github.com/wasabeef/awesome-android-libraries "This is an alphabetical list of libraries for Android development, the majority being actively maintained.") 5424 
+- Awesome-LLM(https://github.com/Hannibal046/Awesome-LLM "Awesome-LLM: a curated list of Large Language Model") 5393 
+- LLMsPracticalGuide(https://github.com/Mooler0410/LLMsPracticalGuide "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)") 5363 
+- PlacesToPostYourStartup(https://github.com/mmccaff/PlacesToPostYourStartup "Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"") 5349 
+- Self-Hosting-Guide(https://github.com/mikeroyal/Self-Hosting-Guide "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Home Assistant, and Networking.") 5304 
+- pdfGPT(https://github.com/bhaskatripathi/pdfGPT "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!") 5294 
+- Awesome-WAF(https://github.com/0xInfection/Awesome-WAF "🔥 Web-application firewalls (WAFs) from security standpoint.") 5289 
+- gopass(https://github.com/gopasspw/gopass "The slightly more awesome standard unix password manager for teams") 5282 
+- WriteGPT(https://github.com/EssayKillerBrain/WriteGPT "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化") 5241 
+- LoRA(https://github.com/microsoft/LoRA "Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"") 5204 
+- awesome-reMarkable(https://github.com/reHackable/awesome-reMarkable "A curated list of projects related to the reMarkable tablet") 5202 
+- awesome-github-android-ui(https://github.com/opendigg/awesome-github-android-ui "安卓UI相关开源项目库汇总 ") 5198 
+- You-Dont-Know-JS(https://github.com/cezaraugusto/You-Dont-Know-JS "📗📒 (PT-Br translation) JS Book Series.") 5197 
+- e2b(https://github.com/e2b-dev/e2b "Developer-first AgentOps platform - deploy, test, and monitor AI agents") 5194 
+- awesome-ios-animation(https://github.com/onmyway133/awesome-ios-animation ":umbrella: A collection of iOS animation repos") 5189 
+- ai-collection(https://github.com/ai-collection/ai-collection "The Generative AI Landscape - A Collection of Awesome Generative AI Applications") 5171 
+- awesome-nodejs-projects(https://github.com/sqreen/awesome-nodejs-projects "Curated list of awesome open-source applications made with Node.js") 5162 
+- awesome-app-ideas(https://github.com/tastejs/awesome-app-ideas "List of awesome app ideas") 5158 
+- awesome-prometheus-alerts(https://github.com/samber/awesome-prometheus-alerts "🚨 Collection of Prometheus alerting rules") 5155 
+- awesome-data-engineering(https://github.com/igorbarinov/awesome-data-engineering "A curated list of data engineering tools for software developers") 5143 
+- ggml(https://github.com/ggerganov/ggml "Tensor library for machine learning") 5141 
+- laf(https://github.com/labring/laf "🤖 Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity. ChatGPT generates functions and deploys them in seconds. There are two types of serverless: 30-second deployment or 30-second discouragement!") 5134 
+- awesome-ios-animation(https://github.com/ameizi/awesome-ios-animation "A curated list of awesome iOS animation, including Objective-C and Swift libraries") 5121 
+- The-Documentation-Compendium(https://github.com/kylelobo/The-Documentation-Compendium "📢 Various README templates & tips on writing high-quality documentation that people want to read.") 5088 
+- dify(https://github.com/langgenius/dify "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.") 5081 
+- DB-GPT(https://github.com/csunny/DB-GPT "Revolutionizing Database Interactions with Private LLM Technology") 5030 
+- awesome-d3(https://github.com/wbkd/awesome-d3 "A list of D3 libraries, plugins and utilities") 5022 
+- AwesomeMenu(https://github.com/levey/AwesomeMenu "Path 2.0 menu using CoreAnimation :)") 5019 
+- awesome-learning-resources(https://github.com/lauragift21/awesome-learning-resources "🔥 Awesome list of resources on Web Development.") 4973 
+- awesome-NeRF(https://github.com/awesome-NeRF/awesome-NeRF "A curated list of awesome neural radiance fields papers") 4973 
+- awesome-tuis(https://github.com/rothgar/awesome-tuis "List of projects that provide terminal user interfaces") 4972 
+- FlexSlider(https://github.com/woocommerce/FlexSlider "An awesome, fully responsive jQuery slider plugin") 4937 
+- jd-assistant(https://github.com/tychxn/jd-assistant "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能") 4924 
+- awesome-ios-architecture(https://github.com/onmyway133/awesome-ios-architecture ":japanese_castle: Better ways to structure iOS apps") 4916 
+- awesome-obsidian(https://github.com/kmaasrud/awesome-obsidian "🕶️ Awesome stuff for Obsidian") 4892 
+- awesome-web-hacking(https://github.com/infoslack/awesome-web-hacking "A list of web application security") 4885 
+- awesome-console-services(https://github.com/chubin/awesome-console-services "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)") 4877 
+- petals(https://github.com/bigscience-workshop/petals "🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading") 4875 
+- bob-plugin-openai-translator(https://github.com/openai-translator/bob-plugin-openai-translator "基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0") 4873 
+- awesome-chatgpt-api(https://github.com/reorx/awesome-chatgpt-api "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.") 4873 
+- linux-kernel-exploits(https://github.com/SecWiki/linux-kernel-exploits "linux-kernel-exploits Linux平台提权漏洞集合") 4856 
+- awesome-nuxt(https://github.com/nuxt-community/awesome-nuxt "A curated list of awesome things related to Nuxt.js") 4844 
+- BetterChatGPT(https://github.com/ztjhz/BetterChatGPT "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)") 4841 
+- awesome-electronics(https://github.com/kitspace/awesome-electronics "A curated list of awesome resources for electronic engineers and hobbyists") 4833 
+- Awesome-RxJava(https://github.com/lzyzsd/Awesome-RxJava "RxJava resources") 4833 
+- ChatGPT-Shortcut(https://github.com/rockbenben/ChatGPT-Shortcut "🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。") 4821 
+- lucida(https://github.com/claritylab/lucida "Speech and Vision Based Intelligent Personal Assistant") 4819 
+- js.org(https://github.com/js-org/js.org "Dedicated to JavaScript and its awesome community since 2015 ") 4801 
+- awesome-home-assistant(https://github.com/frenck/awesome-home-assistant "A curated list of amazingly awesome Home Assistant resources.") 4790 
+- novel(https://github.com/steven-tey/novel "Notion-style WYSIWYG editor with AI-powered autocompletion.") 4777 
+- awesome-javascript-learning(https://github.com/micromata/awesome-javascript-learning "A tiny list limited to the best JavaScript Learning Resources") 4760 
+- chatgpt-vscode(https://github.com/mpociot/chatgpt-vscode "A VSCode extension that allows you to use ChatGPT") 4739 
+- wukong-robot(https://github.com/wzpan/wukong-robot "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。") 4713 
+- awesome-iptv(https://github.com/iptv-org/awesome-iptv "A curated list of resources related to IPTV") 4697 
+- ecoute(https://github.com/SevaSk/ecoute "Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.") 4682 
+- awesome-cryptography(https://github.com/sobolevn/awesome-cryptography "A curated list of cryptography resources and links.") 4676 
+- books(https://github.com/learn-anything/books "Awesome Books") 4673 
+- FeHelper(https://github.com/zxlie/FeHelper "😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）") 4670 
+- DevSecOps(https://github.com/sottlmarek/DevSecOps "Ultimate DevSecOps library") 4670 
+- Awesome-WSL(https://github.com/sirredbeard/Awesome-WSL "Awesome list dedicated to Windows Subsystem for Linux") 4652 
+- Awesome-Fuzzing(https://github.com/secfigo/Awesome-Fuzzing "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.") 4647 
+- awesome-cmake(https://github.com/onqtam/awesome-cmake "A curated list of awesome CMake resources, scripts, modules and examples.") 4630 
+- gans-awesome-applications(https://github.com/nashory/gans-awesome-applications "Curated list of awesome GAN applications and demo") 4628 
+- awesome-monorepo(https://github.com/korfuri/awesome-monorepo "A curated list of awesome Monorepo tools, software and architectures.") 4614 
+- awesome-graph-classification(https://github.com/benedekrozemberczki/awesome-graph-classification "A collection of important graph embedding, classification and representation learning papers with implementations.") 4613 
+- awesome-elasticsearch(https://github.com/dzharii/awesome-elasticsearch "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!") 4604 
+- Feishu-OpenAI(https://github.com/ConnectAI-E/Feishu-OpenAI "🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀") 4599 
+- awesome-infosec(https://github.com/onlurking/awesome-infosec " A curated list of awesome infosec courses and training resources.") 4595 
+- awesome-embedded-rust(https://github.com/rust-embedded/awesome-embedded-rust "Curated list of resources for Embedded and Low-level development in the Rust programming language") 4593 
+- awesome-webpack(https://github.com/webpack-contrib/awesome-webpack "A curated list of awesome Webpack resources, libraries and tools") 4552 
+- must-watch-css(https://github.com/AllThingsSmitty/must-watch-css "🔥 CSS talks you have to see ⚡️ covering CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tools, and more! 🚀") 4526 
+- telescope(https://github.com/laravel/telescope "An elegant debug assistant for the Laravel framework.") 4520 
+- awesome-gpt3(https://github.com/elyase/awesome-gpt3 "None") 4518 
+- graphql-platform(https://github.com/ChilliCream/graphql-platform "Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.") 4515 
+- colorls(https://github.com/athityakumar/colorls "A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:") 4511 
+- awesome-terraform(https://github.com/shuaibiyy/awesome-terraform "Curated list of resources on HashiCorp's Terraform") 4503 
+- awesome-css(https://github.com/awesome-css-group/awesome-css ":art: A curated contents of amazing CSS :)") 4495 
+- awesome-workflow-engines(https://github.com/meirwah/awesome-workflow-engines "A curated list of awesome open source workflow engines") 4491 
+- awesome-godot(https://github.com/godotengine/awesome-godot "A curated list of free/libre plugins, scripts and add-ons for Godot") 4476 
+- awesome-micro-npm-packages(https://github.com/parro-it/awesome-micro-npm-packages "A curated list of small, focused npm packages.") 4466 
+- xxh(https://github.com/xxh/xxh "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.") 4462 
+- awesome-domain-adaptation(https://github.com/zhaoxin94/awesome-domain-adaptation "A collection of AWESOME things about domian adaptation") 4456 
+- AwesomeXSS(https://github.com/s0md3v/AwesomeXSS "Awesome XSS stuff") 4432 
+- awesome-svg(https://github.com/willianjusten/awesome-svg "A curated list of SVG. ") 4430 
+- awesome-security-hardening(https://github.com/decalage2/awesome-security-hardening "A collection of awesome security hardening guides, tools and other resources") 4430 
+- alternative-front-ends(https://github.com/mendel5/alternative-front-ends "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)") 4419 
+- awesome-multimodal-ml(https://github.com/pliang279/awesome-multimodal-ml "Reading list for research topics in multimodal machine learning") 4396 
+- deploy-your-own-saas(https://github.com/Atarity/deploy-your-own-saas "List of "only yours" cloud services for everyday needs :black_flag:") 4366 
+- Home-AssistantConfig(https://github.com/CCOSTAN/Home-AssistantConfig ":house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!") 4361 
+- CopilotForXcode(https://github.com/intitni/CopilotForXcode "The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension") 4358 
+- gorilla(https://github.com/ShishirPatil/gorilla "Gorilla: An API store for LLMs") 4352 
+- Cheatsheet-God(https://github.com/OlivierLaflamme/Cheatsheet-God "Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet") 4344 
+- awesome-privacy(https://github.com/Lissy93/awesome-privacy "🦄  A curated list of privacy & security-focused software and services") 4322 
+- promise-fun(https://github.com/sindresorhus/promise-fun "Promise packages, patterns, chat, and tutorials") 4308 
+- PentestGPT(https://github.com/GreyDGL/PentestGPT "A GPT-empowered penetration testing tool") 4304 
+- awesome-npm(https://github.com/sindresorhus/awesome-npm "Awesome npm resources and tips") 4281 
+- channels(https://github.com/andrew--r/channels "📺 A collection of useful YouTube channels for javascript developers and web designers") 4270 
+- awesome-wepy(https://github.com/aben1188/awesome-wepy "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总") 4270 
+- awesome-youtubers(https://github.com/JoseDeFreitas/awesome-youtubers "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.") 4260 
+- awesome-audio-visualization(https://github.com/willianjusten/awesome-audio-visualization "A curated list about Audio Visualization.") 4247 
+- law-cn-ai(https://github.com/lvwzhen/law-cn-ai "⚖️ AI 法律助手") 4233 
+- jquery-tips-everyone-should-know(https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know "A collection of tips to help up your jQuery game 🎮") 4229 
+- awesome-shodan-queries(https://github.com/jakejarvis/awesome-shodan-queries "🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻") 4226 
+- awesome-uses(https://github.com/wesbos/awesome-uses "A list of /uses pages detailing developer setups, gear, software and configs.") 4218 
+- awesome-pwa(https://github.com/hemanth/awesome-pwa "Awesome list of progressive web apps! (PR welcomed ;))") 4211 
+- awesome-spring-boot(https://github.com/ityouknow/awesome-spring-boot "Spring Boot Resources") 4208 
+- awesome-go-cn(https://github.com/yinggaozhen/awesome-go-cn "一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~") 4197 
+- opencommit(https://github.com/di-sukharev/opencommit "Auto-generate impressive commits with AI in 1 second 🤯🔫") 4196 
+- awesome-ios-cn(https://github.com/jobbole/awesome-ios-cn "iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等") 4183 
+- Awesome-Android-Interview(https://github.com/JsonChao/Awesome-Android-Interview ":fire: A awesome  android expert interview questions and answers（continuous updating ...）") 4174 
+- Cards(https://github.com/PaoloCuscela/Cards "Awesome iOS 11 appstore cards in swift 5.") 4154 
