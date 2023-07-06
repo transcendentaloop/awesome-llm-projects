@@ -89,7 +89,7 @@
 - [my-mac](https://github.com/nikitavoloboev/my-mac "List of applications and tools that make my macOS experience even more amazing") 19819 
 - [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8 "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵") 19722 
 - [awesome-spider](https://github.com/facert/awesome-spider "爬虫集合") 19569 
-- [gpt-2](https://github.com/openai/gpt-2 "Code for the paper "Language Models are Unsupervised Multitask Learners"") 19502 
+- [gpt-2](https://github.com/openai/gpt-2 "Code for the paper \"Language Models are Unsupervised Multitask Learners\"") 19502 
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV ":page_facing_up: Awesome CV is LaTeX template for your outstanding job application") 19501 
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software "🐧 A list of awesome Linux softwares ") 19439 
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。") 18742 
@@ -247,7 +247,7 @@
 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head") 8840 
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql") 8822 
 - [awesome-scala](https://github.com/lauris/awesome-scala "A community driven list of useful Scala libraries, frameworks and software.") 8777 
-- [RWKV-LM](https://github.com/BlinkDL/RWKV-LM "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.") 8764 
+- [RWKV-LM](https://github.com/BlinkDL/RWKV-LM "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.") 8764 
 - [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ") 8739 
 - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform") 8668 
 - [Android_Data](https://github.com/Freelander/Android_Data "Some Android learning materials, hoping to help you learn Android development.") 8632 
@@ -391,13 +391,13 @@
 - [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries "This is an alphabetical list of libraries for Android development, the majority being actively maintained.") 5424 
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM "Awesome-LLM: a curated list of Large Language Model") 5393 
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)") 5363 
-- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup "Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"") 5349 
+- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup "Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"") 5349 
 - [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Home Assistant, and Networking.") 5304 
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!") 5294 
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF "🔥 Web-application firewalls (WAFs) from security standpoint.") 5289 
 - [gopass](https://github.com/gopasspw/gopass "The slightly more awesome standard unix password manager for teams") 5282 
 - [WriteGPT](https://github.com/EssayKillerBrain/WriteGPT "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化") 5241 
-- [LoRA](https://github.com/microsoft/LoRA "Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"") 5204 
+- [LoRA](https://github.com/microsoft/LoRA "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"") 5204 
 - [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable "A curated list of projects related to the reMarkable tablet") 5202 
 - [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui "安卓UI相关开源项目库汇总 ") 5198 
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS "📗📒 (PT-Br translation) JS Book Series.") 5197 
@@ -475,7 +475,7 @@
 - [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening "A collection of awesome security hardening guides, tools and other resources") 4430 
 - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)") 4419 
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml "Reading list for research topics in multimodal machine learning") 4396 
-- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas "List of "only yours" cloud services for everyday needs :black_flag:") 4366 
+- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas "List of \"only yours\" cloud services for everyday needs :black_flag:") 4366 
 - [Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig ":house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!") 4361 
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode "The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension") 4358 
 - [gorilla](https://github.com/ShishirPatil/gorilla "Gorilla: An API store for LLMs") 4352 
